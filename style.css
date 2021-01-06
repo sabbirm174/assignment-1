@@ -1,6 +1,7 @@
 body{
     font-family: 'Varela', sans-serif;
 }
+/**************************universel class-class-start*******************/
 p{
     font-size: 16px;
     line-height: 28px;
@@ -59,6 +60,10 @@ h2{
 .container{
     margin:1rem 3rem;
 }
+/**************************universel class-end******************************/
+
+
+/**************************nav-start***********************************/
 nav .menu{
     float: right;
 }
@@ -69,6 +74,9 @@ nav .menu a{
     padding:1rem 1.3rem;
     letter-spacing: .2;
 }
+/**************************nav-end***********************************/
+
+/**************************section-1-start***********************************/
 .sec-1 {
     float: left;
     margin: 7rem 0;
@@ -95,6 +103,9 @@ nav .menu a{
 .sec-1 .my-img img{
     width: 100%;
 }
+/**************************section-1-end***********************************/
+
+/**************************section-2-start***********************************/
 .sec-2 {
     float: left;
     margin: 4rem 0;
@@ -123,7 +134,9 @@ nav .menu a{
     
     margin: 3rem 0;
 }
+/**************************section-2-end***********************************/
 
+/**************************section-3-start***********************************/
 
 .first-el{
     margin-left: 80px;
@@ -155,6 +168,12 @@ nav .menu a{
     background: #f8f9fc;
     padding: 3rem 0 5rem 0;
 }
+
+/**************************section-3-end***********************************/
+
+/**************************section-4 / what-i-do-start **************************/
+
+
 .what-i-do{
     margin: 4rem 0;
 }
@@ -190,6 +209,11 @@ nav .menu a{
     float: left;
     width:50%
 }
+
+/**************************section-4 / what-i-do-end **********************/
+/**************************section-5 / banner-start **********************/
+
+
 .banner-left {
     float: left;
     width: 40%;
@@ -215,6 +239,10 @@ nav .menu a{
     display: block;
     text-align: center;
 }
+/**************************section-5 / banner-stop **********************/
+
+/**************************footer-star **********************/
+
 footer h4{
     font-family: 'Bebas Neue', cursive;
     letter-spacing: .075rem;
@@ -230,3 +258,4 @@ footer img{
     width: 36px ;
     padding: 0 10px;
 }
+/**************************footer-end **********************/
