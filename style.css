@@ -1,0 +1,221 @@
+body{
+    font-family: 'Varela', sans-serif;
+}
+p{
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: .5px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: .23rem;
+}
+.mr-1 h2{
+    margin-top: 7rem;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    letter-spacing: .2rem;
+    color: 363958;
+}
+.btn{
+    text-decoration: none;
+    color:#ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    padding: .75rem 1.25rem;
+    background-image: linear-gradient(to right, #f6d365 0%, #fda085 100%, #f6d365 100%);
+    border-radius: 7px;
+    font-size: 20px;
+}
+
+
+.full-width{
+    width: 100%;
+}
+.primary-color{
+    color:#FF8367;
+}
+.flot-l{
+    float: left;
+
+}
+.container{
+    margin:1rem 3rem;
+}
+nav .menu{
+    float: right;
+}
+nav .menu a{
+    color:#3C3C3C;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding:1rem 1.3rem;
+    letter-spacing: .2;
+}
+.sec-1 {
+    float: left;
+    margin: 7rem 0;
+    height: 400px;
+    clear: both;
+}
+.sec-1 .per-info{
+    width:60%;
+    float: left;
+}
+
+
+.sec-1 .per-info p {
+    
+    width: 348px;
+    margin: 3rem 0;
+}
+
+.sec-1 .my-img{
+    width: 40%;
+    float: left;
+    margin: -4rem;
+}
+.sec-1 .my-img img{
+    width: 100%;
+}
+.sec-2 {
+    float: left;
+    margin: 4rem 0;
+    height: 400px;
+    clear: both;
+}
+.sec-2 .img2{
+    width:50%;
+    float: left;
+}
+.sec-2 .img2 img{
+    width:80%;
+}
+.float-l{
+    float: left;
+    margin-left: 3rem;
+    margin-top:1rem;
+    width:40%;
+}
+.float-l h1{
+    font-size: 50px;
+    line-height: .4;
+    letter-spacing: .23rem;
+}
+.float-l P{
+    
+    margin: 3rem 0;
+}
+
+
+.first-el{
+    margin-left: 80px;
+}
+.text-center{
+    text-align: center;
+}
+.div-wrap {
+    width: 26%;
+    background: #ffffff;
+    float: left;
+    margin-right: 1.2rem;
+    margin-top: 4rem;
+    height: 300px;
+    border-radius: 5px;
+    padding: 1rem 1rem 2rem 1rem;
+    margin-bottom: 5rem;
+}
+.div-wrap img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bg1{
+    margin-top: 10rem ;
+    background: #f8f9fc;
+    padding: 3rem 0 5rem 0;
+}
+.what-i-do{
+    margin: 4rem 0;
+}
+.what-i-do-top{
+    margin: 8rem 0;
+}
+.what-i-do-left{
+    float: left;
+    width: 50%;
+    margin-top: 50px;
+}
+.what-i-do-left img{
+    width:40px;
+    height: 40px;
+    float: left;
+    margin-top: 6px;
+}
+.what-i-do-left h2 {
+    font-size: 24px;
+    line-height: 0px;
+}
+
+.what-i-do-left div{
+    float: left;
+    margin-left: 24px;
+}
+.w-10{
+    width: 83%;
+    margin-left: 20px;
+    float: left;
+}
+.what-i-do-right{
+    float: left;
+    width:50%
+}
+.banner-left {
+    float: left;
+    width: 40%;
+    margin: 93px 0 0 187px;
+}
+.banner-left h2{
+    color: #fff;
+}
+.banner-right {
+    float: left;
+    width: 25%;
+    margin: 134px 0 0 92px;
+}
+
+.banner{
+    height: 300px;
+    background-image: url(images/shape.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top:10rem;
+}
+.align-center{
+    display: block;
+    text-align: center;
+}
+footer h4{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: .075rem;
+    font-size: 24px;
+}
+footer h2{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: .075rem;
+    font-size: 36px;
+}
+footer img{
+    height: 36px ;
+    width: 36px ;
+    padding: 0 10px;
+}
