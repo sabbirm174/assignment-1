@@ -35,7 +35,16 @@ h2{
     border-radius: 7px;
     font-size: 20px;
 }
-
+.btn-cv{
+    padding-left:45px;
+    position: relative;
+}
+.icon-1 {
+    padding: 1rem 0 0 0;
+    position: absolute;
+    top: -4px;
+    left: 9px;
+}
 
 .full-width{
     width: 100%;
@@ -132,6 +141,8 @@ nav .menu a{
     border-radius: 5px;
     padding: 1rem 1rem 2rem 1rem;
     margin-bottom: 5rem;
+    box-shadow: 0px 14px 24px -11px rgba(0,0,0,0.13);
+
 }
 .div-wrap img{
     width: 100%;
